@@ -6,4 +6,3 @@ My name is Dennis Løvold and I'm a front-end developer/student. I'm from Norway
 
 <img alt="Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=dotDennis&show_icons=true&theme=radical">
 
-![dotDennis's Github Stats](https://github-readme-stats.vercel.app/api?username=dotDennis&show_icons=true&theme=radical)
