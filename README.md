@@ -1,7 +1,5 @@
 ### Hello, Folks! <img src="icons/wave.gif" width="30px">
 
-<img align="right" width="425" src="images/dennis.png">
-
-My name is Dennis Løvold and I'm a front-end developer/student. I'm from Norway, living in a small town called Åheim. Currently I'm working in a start-up called 'digLEE escape'. You can find me on the bird app <a href="https://twitter.com/d0tDennis"><img height="16px" src="icons/twitter.svg"></a> and the networking app <a href="https://www.linkedin.com/in/dotdennis/"></a>
+My name is Dennis Løvold and I'm a Front-End Developer from Norway. Currently I'm working on taking a bachelor degree in Computer Engineering, with the goal to become a Full-Stack Developer. I'll be attempting to post frequent updates, so that you can tag along my 'stack' journey.
 
 <img alt="Github Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=dotDennis&show_icons=true&theme=radical">
