@@ -7,17 +7,17 @@
 
 - 🖥️ I’m currently working on [ÅSS Mobile App](https://github.com/Aalesundstudentsamfunn/ass-app)
 
-- 🌱 I’m currently learning **Expo & Supabase**
+- 🌱 I’m currently using **Expo & Supabase**
 
-- ✅ Recently completed [Ski & Magi Website](https://skiogmagi.no)
+- ✅ Recently completed [Ski & Magi Website](https://skiogmagi.no) & [U.-KA. Website](https://ukaa.no)
 
-- 📱 Current side-project [Unique Student App](https://github.com/dotDennis/fliqk-app)
+- 📱 Current side-project **Unique Student App**
 
-- 👨‍💻 All of my projects are (soon) available at [https://dotdennis.github.io](https://dotdennis.github.io)
+- 👨‍💻 All of my projects are (soon) available at [https://dotdennis.github.io](https://bydennis.dev)
 
-- 💬 Ask me about **react, html, css, ts**
+- 💬 Ask me about **react, html, css, ts, java, sql**
 
-- 📫 How to reach me **dennissloevold@outlook.com**
+- 📫 How to reach me **contact@bydennis.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
