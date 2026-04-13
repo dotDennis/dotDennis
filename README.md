@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotdennis&label=Profile%20views&color=ff8c82&style=flat" alt="dotdennis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/d0tdennis" target="blank"><img src="https://img.shields.io/twitter/follow/d0tdennis?logo=twitter&style=for-the-badge" alt="d0tdennis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bydennisdev" target="blank"><img src="https://img.shields.io/twitter/follow/d0tdennis?logo=twitter&style=for-the-badge" alt="d0tdennis" /></a> </p>
 
 - 🖥️ I’m currently working on [ÅSS Mobile App](https://github.com/Aalesundstudentsamfunn/ass-app)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d0tdennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d0tdennis" height="30" width="40" /></a>
+<a href="https://twitter.com/bydennisdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d0tdennis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dotdennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dotdennis" height="30" width="40" /></a>
 </p>
 
